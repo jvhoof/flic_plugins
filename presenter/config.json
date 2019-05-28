@@ -24,6 +24,10 @@
 		{
 			"actionName": "White Screen",
 			"fileName": "white.scpt",
+		},
+		{
+			"actionName": "Exit Presentation",
+			"fileName": "exitpresentation.scpt",
 		}
 	]
 }
